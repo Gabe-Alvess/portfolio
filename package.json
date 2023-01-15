@@ -6,9 +6,25 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@heroicons/react": "^2.0.13",
+    "@hookform/resolvers": "^2.9.10",
+    "@portabletext/react": "^2.0.0",
+    "@reduxjs/toolkit": "^1.9.1",
+    "@sanity/image-url": "^1.0.1",
+    "framer-motion": "^8.4.2",
     "next": "latest",
+    "next-sanity": "^4.0.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.42.1",
+    "react-redux": "^8.0.5",
+    "react-simple-typewriter": "^5.0.1",
+    "react-social-icons": "^5.15.0",
+    "react-toastify": "^9.1.1",
+    "tailwind-scrollbar": "^2.1.0",
+    "uuid": "^9.0.0",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
